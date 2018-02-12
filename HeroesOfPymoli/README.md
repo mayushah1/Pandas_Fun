@@ -71,6 +71,11 @@ As final considerations:
 * You must include a written description of three observable trends based on the data. 
 * See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_Example.pdf) for a reference on expected format. 
 
+## Three observable trends based on the data
+#1) - Most Profitable item is Mourning Blade with three purchases and about $11 in revenue
+#2) - There are mainly male players 64 out of 74 and highest number of players are between 20-24 years of age (33 players)
+#3) - There are two returning buyers: Sundaky74 and Aidaira26
+
 
 ```python
 import pandas as pd
